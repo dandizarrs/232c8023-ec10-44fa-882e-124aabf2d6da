@@ -1,0 +1,2 @@
+1712063817.083222467s 1 https://dandiarchive.s3.amazonaws.com/zarr/232c8023-ec10-44fa-882e-124aabf2d6da/acquisition/ElectricalSeries/data/558.56?versionId=k6xAYQz2xArI7Caf5Rw3BW9PWY5oGNWR
+1712063817.086402985s 1 https://api.dandiarchive.org/api/zarr/232c8023-ec10-44fa-882e-124aabf2d6da/files?prefix=acquisition%2FElectricalSeries%2Fdata%2F558.56&download=true
